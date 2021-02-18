@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/reactsite/static/css/main.27c037d1.chunk.css",
-    "main.js": "/reactsite/static/js/main.91f78a74.chunk.js",
-    "main.js.map": "/reactsite/static/js/main.91f78a74.chunk.js.map",
+    "main.js": "/reactsite/static/js/main.d2ab4c88.chunk.js",
+    "main.js.map": "/reactsite/static/js/main.d2ab4c88.chunk.js.map",
     "runtime-main.js": "/reactsite/static/js/runtime-main.f7f6347f.js",
     "runtime-main.js.map": "/reactsite/static/js/runtime-main.f7f6347f.js.map",
     "static/js/2.990cae82.chunk.js": "/reactsite/static/js/2.990cae82.chunk.js",
     "static/js/2.990cae82.chunk.js.map": "/reactsite/static/js/2.990cae82.chunk.js.map",
     "index.html": "/reactsite/index.html",
-    "precache-manifest.3ce5c3beffbab96e90f318e13a5db6a7.js": "/reactsite/precache-manifest.3ce5c3beffbab96e90f318e13a5db6a7.js",
+    "precache-manifest.9f4848e5e887214508888acd789e7722.js": "/reactsite/precache-manifest.9f4848e5e887214508888acd789e7722.js",
     "service-worker.js": "/reactsite/service-worker.js",
     "static/css/main.27c037d1.chunk.css.map": "/reactsite/static/css/main.27c037d1.chunk.css.map",
     "static/js/2.990cae82.chunk.js.LICENSE.txt": "/reactsite/static/js/2.990cae82.chunk.js.LICENSE.txt",
-    "static/js/main.91f78a74.chunk.js.LICENSE.txt": "/reactsite/static/js/main.91f78a74.chunk.js.LICENSE.txt",
+    "static/js/main.d2ab4c88.chunk.js.LICENSE.txt": "/reactsite/static/js/main.d2ab4c88.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/reactsite/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/reactsite/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/reactsite/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.f7f6347f.js",
     "static/js/2.990cae82.chunk.js",
     "static/css/main.27c037d1.chunk.css",
-    "static/js/main.91f78a74.chunk.js"
+    "static/js/main.d2ab4c88.chunk.js"
   ]
 }
